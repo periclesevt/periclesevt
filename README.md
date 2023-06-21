@@ -13,3 +13,9 @@ Take a seat and make yourself at home!
 <div align="center">
 <img src="https://github.com/periclesevt/periclesevt/raw/main/img/bekind.gif" alt="bekind" align="center">
 </div>
+
+</a>
+</h3>
+
+<hr>
+
