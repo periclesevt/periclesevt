@@ -15,12 +15,30 @@ Take a seat and make yourself at home!
 <img src="https://github.com/periclesevt/periclesevt/raw/main/img/bekind.gif" alt="bekind" align="center">
 </div><br><br>
 
-
 [![Linkedin: Péricles_Vasconcelos](https://img.shields.io/badge/-P%C3%A9ricles%20Vasconcelos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/p%C3%A9ricles-vasconcelos-teixeira-a0901520a/)](https://www.linkedin.com/in/p%C3%A9ricles-vasconcelos-teixeira-a0901520a/)
 [![GitHub periclesevt](https://img.shields.io/github/followers/periclesevt?label=follow&style=social)](https://github.com/periclesevt)
 
 <hr>
 
+### Referring to me 😎
+```python
+
+class periclesevt:
+
+    def __init__(self):
+        self.name = "Péricles Vasconcelos"
+        self.nationality = "Brazilian"
+        self.role = "Java Developer👶"
+        
+        self.code = ["Java","Python","C/C++"]
+        self.tools = ["Spring","MongoDB","MySQL","SQLite","Docker", "Jupyter_Notebook"]
+        self.language_spoken = ["pt_BR", "en_US"]
+
+        
+me = periclesevt()
+```
+<br>
+<hr>
 <div align="center">
 
 <p>Write something nice in my guest book:</p>
