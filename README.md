@@ -31,8 +31,8 @@ class periclesevt:
         self.role = "Java Developer👶"
         
         self.code = ["Java","Python","C/C++"]
-        self.tools = ["Spring","MongoDB","MySQL","SQLite","Docker", "Jupyter_Notebook"]
-        self.language_spoken = ["pt_BR", "en_US"]
+        self.tools = ["Spring","MongoDB","MySQL","SQLite","Docker","Jupyter_Notebook"]
+        self.language_spoken = ["pt_BR","en_US"]
 
         
 me = periclesevt()
